@@ -1,0 +1,1 @@
+In the repo, I've implemented a project to perform EDA(Exploratory Data Analysis) on stock price & use LTSM network to predit future stock prices. All this is implemented in Jupyter Notebook using Keras Deep Learning Framework
